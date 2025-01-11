@@ -40,4 +40,4 @@ This repository focuses on the study and application of Estimation and Detection
     - Understanding of matched filter concept.
     - Practical examples and application scenarios.
 
-This repository aims to spread knowledge and foster a deeper understanding of the subject of Estimation and Detection Theory. This is not affiliated with any course or institution but aims to provide an independent study resource. Contributions and suggestions to improve the repository are greatly appreciated.
+This repository aims to spread knowledge and foster a deeper understanding of the subject of Estimation and Detection Theory
